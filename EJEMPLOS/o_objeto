@@ -1,0 +1,30 @@
+# Definir la clase Contador
+# Que guarde un valor
+# Que este valor se pueda incrementar
+# Se pueda decrementar
+# Podrá mostrar el valor
+
+# Nombre de clase
+class Contador:
+
+# Cuerpo de clase
+    # Constructor
+    def __init__(self, valor_inicial):
+        print("Se creó un nuevo objeto de la clase Contador")
+        self.valor = valor_inicial # self variable global
+    # Metodos
+    def incrementar(self):
+        self.valor += 1
+    def decrementar(self):
+        self.valor -= 1 
+    def mostrar(self):
+        print(self.valor)
+    
+    # Instancia de Clase -> creo el Objeto    
+    contador = Contador(0) # variable apunta donde esta ubicado
+
+    # Llamado a los métodos
+    contador.incrementar()
+    contador.incrementar()
+    contador.decrementar()
+    contador.mostrar()
