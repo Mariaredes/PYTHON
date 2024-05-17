@@ -1,6 +1,6 @@
 ﻿<h1 align="center">
 <br>
-  <a href="https://github.com/Mariaredes"><img src="https://www.pngwing.com/es/search?q=tutorial+de+python" alt="Ejemplos basicos en Python" width=200"></a>
+  <img src="https://www.pngwing.com/es/search?q=tutorial+de+python"  width=200">
   <br>
   Ejemplos basicos en Python
   <br><br>
