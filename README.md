@@ -1,6 +1,6 @@
 ﻿<h1 align="center">
 <br>
-  <img src="https://www.klipartz.com/es/sticker-png-bwxtj"  width=200">
+  <img src="[https://www.pngwing.com/es/free-png-hcbwh]"  alt= "" width=200">
   <br>
   Ejemplos basicos en Python
   <br><br>
